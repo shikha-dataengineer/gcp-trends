@@ -1,3 +1,4 @@
+# Project Overview
 🚀 End-to-End Data Engineering Project showcasing how to fetch, clean, process, and analyze Google Trends data with PySpark in a Google Cloud Platform (GCP) environment.
 
 This project demonstrates data ingestion, transformation, and storage pipelines — key concepts for real-world Data Engineering roles.
